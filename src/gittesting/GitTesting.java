@@ -13,6 +13,7 @@ public class GitTesting {
         System.out.println("Testing");
         System.out.println("My name is Erin");
         System.out.println("Her name is Luka");
+        System.out.println("Watching a movie");
         
 
     }

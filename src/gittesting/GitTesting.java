@@ -15,6 +15,8 @@ public class GitTesting {
         System.out.println("Her name is Luka");
         System.out.println("Watching a movie");
         
+        int Testing= 1;
+        
 
     }
     
